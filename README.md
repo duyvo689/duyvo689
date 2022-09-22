@@ -51,3 +51,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+<p>
+  <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
