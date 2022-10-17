@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyvo689&layout=compact)       ![Stats](https://github-readme-stats.vercel.app/api/?username=duyvo689&count_private=false&show_icons=false&include_all_commits=true&&hide_border=true)
 
-
+<img width="513" alt="Screen Shot 2022-10-17 at 11 56 11" src="https://user-images.githubusercontent.com/88277970/196093768-c77fee27-d626-4292-a60a-f953c7d2034c.png">
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
