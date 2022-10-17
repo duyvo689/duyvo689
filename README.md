@@ -1,8 +1,7 @@
 ###  Software Engineer at Metastream Labs Inc
 <p>Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.</p>
 
-<img width="513" alt="Screen Shot 2022-10-17 at 11 56 11" src="https://user-images.githubusercontent.com/88277970/196093768-c77fee27-d626-4292-a60a-f953c7d2034c.png">
-<img width="491" alt="Screen Shot 2022-10-17 at 15 44 24" src="https://user-images.githubusercontent.com/88277970/196132090-00662bca-6812-48d6-a73c-18c61f739961.png">
+<img width="491" alt="Screen Shot 2022-10-17 at 11 56 11" src="https://user-images.githubusercontent.com/88277970/196093768-c77fee27-d626-4292-a60a-f953c7d2034c.png"><img width="473.5" alt="Screen Shot 2022-10-17 at 15 44 24" src="https://user-images.githubusercontent.com/88277970/196132090-00662bca-6812-48d6-a73c-18c61f739961.png">
 
 
 <img src="./20220801-175645.jpeg"/>
