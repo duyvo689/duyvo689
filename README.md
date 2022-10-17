@@ -1,16 +1,19 @@
 ###  Software Engineer at Metastream Labs Inc
 <p>Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.</p>
 
-<img src="./20220801-175645.jpeg"/>
+<img width="513" alt="Screen Shot 2022-10-17 at 11 56 11" src="https://user-images.githubusercontent.com/88277970/196093768-c77fee27-d626-4292-a60a-f953c7d2034c.png">
+<img width="491" alt="Screen Shot 2022-10-17 at 15 44 24" src="https://user-images.githubusercontent.com/88277970/196132090-00662bca-6812-48d6-a73c-18c61f739961.png">
 
+
+<img src="./20220801-175645.jpeg"/>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyvo689&layout=compact)       ![Stats](https://github-readme-stats.vercel.app/api/?username=duyvo689&count_private=false&show_icons=false&include_all_commits=true&&hide_border=true)
 
-<img width="513" alt="Screen Shot 2022-10-17 at 11 56 11" src="https://user-images.githubusercontent.com/88277970/196093768-c77fee27-d626-4292-a60a-f953c7d2034c.png">
+
+
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -49,9 +52,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <p>
   <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <p>
   <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a target="_blank" href=""><img src="https://img.shields.io/badge/-Võ Thành Duy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
