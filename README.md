@@ -37,16 +37,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-### Games Published
-
-<p>
-  <a target="_blank" href="https://khoiwall.github.io/songeth"><img src="https://img.shields.io/badge/-Website_Frist-08c271?style=flat&logo=audacity&logoColor=white"/>   </a>
-  <a target="_blank" href="https://stun-store.vercel.app"><img src="https://img.shields.io/badge/-Stun_Store-111?style=flat&logo=itch.io&logoColor=white"/>
-</p>
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
  ### Connect to Me
 
 <p>
