@@ -19,7 +19,7 @@
 </p>
 <img src="./20220801-175645.jpeg"/>
 
-#### Aura ID Mini App
+### Aura ID Mini App
 <p>Là ứng dụng Loyalty dành cho khách hàng trong hệ sinh thái Aura Group bao gồm Aura Beauty Clinic, Aura Dental, Aura Healing và Aura Lifestyle.</p>
 
 <img width="239" alt="Screen Shot 2022-11-22 at 10 44 30" src="https://user-images.githubusercontent.com/88277970/203216124-b8e9979a-4bcc-4f6f-a600-31a1ab5b2d72.png">
