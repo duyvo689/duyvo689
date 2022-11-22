@@ -1,45 +1,30 @@
 ###  Software Engineer at Metastream Labs Inc
 <p>Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.</p>
 
+### Connect to Me
+<p>
+ <a target="_blank" href="https://www.facebook.com/duyvo689/"><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+### Metastream App
+<p>
+ <a target="_blank" href="https://play.google.com/store/apps/details?id=com.metastream.app_metastream&pli=1">Metastream App GooglePlay</a>
+</p>
+
 <img width="300" alt="Screen Shot 2022-10-17 at 11 56 11" src="https://user-images.githubusercontent.com/88277970/196093768-c77fee27-d626-4292-a60a-f953c7d2034c.png"><img width="289.2" alt="Screen Shot 2022-10-17 at 15 44 24" src="https://user-images.githubusercontent.com/88277970/196132090-00662bca-6812-48d6-a73c-18c61f739961.png">
 
-
+### Metastream Web
+<p>
+ <a target="_blank" href="https://staging.metastream.live/">Metastream Web</a>
+</p>
 <img src="./20220801-175645.jpeg"/>
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+#### Aura ID Mini App
+<p>Là ứng dụng Loyalty dành cho khách hàng trong hệ sinh thái Aura Group bao gồm Aura Beauty Clinic, Aura Dental, Aura Healing và Aura Lifestyle.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyvo689&layout=compact)       ![Stats](https://github-readme-stats.vercel.app/api/?username=duyvo689&count_private=false&show_icons=false&include_all_commits=true&&hide_border=true)
+<img width="239" alt="Screen Shot 2022-11-22 at 10 44 30" src="https://user-images.githubusercontent.com/88277970/203216124-b8e9979a-4bcc-4f6f-a600-31a1ab5b2d72.png">
 
+<img width="340" alt="Screen Shot 2022-11-13 at 15 55 06" src="https://user-images.githubusercontent.com/88277970/201513844-edd81c99-786f-49b6-9daa-dfe78e61b494.png"><img width="324" alt="Screen Shot 2022-11-13 at 15 55 41" src="https://user-images.githubusercontent.com/88277970/201513848-d0715be6-ea02-4375-912a-52ce5cc302f2.png">
+<img width="328" alt="Screen Shot 2022-11-13 at 15 55 55" src="https://user-images.githubusercontent.com/88277970/201513849-793eee15-bee5-459a-bced-39c1e8d185d0.png"><img width="340" alt="Screen Shot 2022-11-13 at 15 55 06" src="https://user-images.githubusercontent.com/88277970/201513855-bc79f754-5329-4707-94d2-dc9480f20518.png">
 
-
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
-
-![C++](http://img.shields.io/badge/-C++-2494d1?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-08c271?style=flat-square&logo=android&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
- ### Connect to Me
-
-<p>
-  <a target="_blank" href="https://www.facebook.com/duyvo689/"><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
 
