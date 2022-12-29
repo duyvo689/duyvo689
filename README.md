@@ -7,8 +7,9 @@
 </p>
 ### Aura Bác Sĩ
 <p>Ứng dụng giúp Bác Sĩ xem lịch đặt hẹn của mình tại hệ sinh thái Thẩm Mỹ Viện Aura Group</p>
-<img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209928981-db3954ff-d409-4879-a19d-12b9abae8668.png"><img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929145-5a188b83-7943-43d7-a0ef-6c571645c8a7.png">
-<img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929220-20c56ae5-bb30-4379-b387-77dc7debbf36.png"><img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929227-7a987371-c8f3-44fe-83a8-3b302c820d82.png">
+<img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209928981-db3954ff-d409-4879-a19d-12b9abae8668.png"> <img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929145-5a188b83-7943-43d7-a0ef-6c571645c8a7.png">
+<img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929220-20c56ae5-bb30-4379-b387-77dc7debbf36.png"> <img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929227-7a987371-c8f3-44fe-83a8-3b302c820d82.png">
+<img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929689-2016f704-fe83-4fb1-b38d-59ab457bb54b.png"> <img width="220" alt="Screen Shot 2022-11-22 at 11 12 44" src="https://user-images.githubusercontent.com/88277970/209929697-84cbd196-8086-426e-812f-e8466b2f64b9.png">
 
 ### Aura Lễ Tân
 <p>Ứng dụng giúp lễ tân xem lịch đặt hẹn, check in, check out khách hàng tại hệ sinh thái Thẩm Mỹ Viện Aura Group</p>
