@@ -20,6 +20,12 @@
 </p>
 <img src="./20220801-175645.jpeg"/>
 
+### Aura POS
+<p>
+ Flutter, Bloc, Nestjs
+</p>
+<img width="300" alt="Screen Shot 2022-10-17 at 11 56 11" src="https://github.com/duyvo689/duyvo689/assets/88277970/339c0a3d-cd21-4538-a033-8eb5e2fb3d4e"><img width="289.2" alt="Screen Shot 2022-10-17 at 15 44 24" src="https://github.com/duyvo689/duyvo689/assets/88277970/1f9d20c8-b169-4503-9e02-2bd33ca42f3f"><img width="289.2" alt="Screen Shot 2022-10-17 at 15 44 24" src="https://github.com/duyvo689/duyvo689/assets/88277970/ffc2c604-608c-4928-b2e6-8e3f177e0160">
+
 ### Aura ID Mini App
 <p>Là ứng dụng Loyalty dành cho khách hàng trong hệ sinh thái Aura Group bao gồm Aura Beauty Clinic, Aura Dental, Aura Healing và Aura Lifestyle.</p>
 <img width="219" alt="Screen Shot 2022-11-22 at 10 44 30" src="https://user-images.githubusercontent.com/88277970/203216124-b8e9979a-4bcc-4f6f-a600-31a1ab5b2d72.png"><img width="250" alt="Screen Shot 2022-11-13 at 15 55 06" src="https://user-images.githubusercontent.com/88277970/201513844-edd81c99-786f-49b6-9daa-dfe78e61b494.png">
