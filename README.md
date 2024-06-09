@@ -26,6 +26,15 @@
 </p>
 <img src="./20220801-175645.jpeg"/>
 
+### Aura ERP 
+<p>
+ Next.js 12, NestJS, Ant Design, Tailwind CSS 
+</p>
+[Link Here](https://aura.shecom.asia)
+<p>
+</p>
+<img width="1426" alt="Screenshot 2024-06-09 at 11 46 01" src="https://github.com/duyvo689/duyvo689/assets/88277970/484b14b1-abe5-4ebe-9b7c-f2d7d17ebd06">
+
 ### Aura POS
 <p>
  Flutter, Bloc, Nestjs
