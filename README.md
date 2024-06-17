@@ -9,9 +9,8 @@
 
 ### Connect to Me
 <p>
- <a target="_blank" href="https://www.facebook.com/duyvo689/"><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <a target="_blank" href="https://www.linkedin.com/in/divo689/"><img src="https://img.shields.io/badge/-Võ Thành Duy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-
 
 ### Metastream App
 <p>
