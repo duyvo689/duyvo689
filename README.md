@@ -45,5 +45,9 @@
 <p>Là ứng dụng Loyalty dành cho khách hàng trong hệ sinh thái Aura Group bao gồm Aura Beauty Clinic, Aura Dental, Aura Healing và Aura Lifestyle.</p>
 <img width="219" alt="Screen Shot 2022-11-22 at 10 44 30" src="https://user-images.githubusercontent.com/88277970/203216124-b8e9979a-4bcc-4f6f-a600-31a1ab5b2d72.png"><img width="250" alt="Screen Shot 2022-11-13 at 15 55 06" src="https://user-images.githubusercontent.com/88277970/201513844-edd81c99-786f-49b6-9daa-dfe78e61b494.png">
 
+### contributions
+<img width="934" alt="Screenshot 2024-06-17 at 10 55 05" src="https://github.com/duyvo689/duyvo689/assets/88277970/d587ff28-0da3-4b03-b63f-17d49d08d774">
+<img width="934" alt="Screenshot 2024-06-17 at 10 54 46" src="https://github.com/duyvo689/duyvo689/assets/88277970/9d43ba55-b50d-4f77-b1d9-abfec6f2c15a">
+
 
 
