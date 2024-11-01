@@ -28,9 +28,11 @@ Period: Sep 2018 - Dec 2022
 
 ### 👨‍💻 Work Experience
 #### Software Engineer at Shecom Asia
+*Period: 2022 - 2024*
 <p>Shecom is a company that incubates and invests in internet and technology companies that focus on the women's beauty and lifestyle. Our goal is to build market-leading companies that cater to the growing "sheconomy", targeting the female consumer market.</p>
 
 #### Software Engineer at Metastream Labs Inc
+*Period: 2021 - 2022*
 <p>Metastream is a Streaming-focused Game NFT Marketplace. Combines the best of Game entertainment and Defi. No boundaries, no hassle, pure entertainment and enhanced gamer benefits.</p>
 
 
